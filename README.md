@@ -14,3 +14,6 @@ Observation space: array of shape (2,) comprising of position & velocity of car 
      Action space: 0[UP], 1[RIGHT], 2[DOWN], 3[LEFT] \
           Rewards: \
               1) Each timestep: -1
+              
+# Documentation
+https://www.gymlibrary.ml/environments/classic_control/mountain_car/             
