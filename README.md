@@ -2,7 +2,7 @@
 This repo contains the code to solve the mountain car environment using Sarsa with Tiling
 
 # Description
-![alt text](https://github.com/kwquan/Mountain-Car/blob/main/mountain_car.png)
+![alt text](https://github.com/kwquan/Mountain-Car/blob/main/mountain_car_2.png)
 
 In this notebook[MountainCar.ipynb], we shall solve the Mountain Car environment using Sarsa & Tiling. In addition, we shall conduct a parameter study to investigate the effects of different tile/tiling values on timesteps to reach termination 
 
