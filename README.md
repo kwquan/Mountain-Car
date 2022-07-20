@@ -12,5 +12,5 @@ Aim: The Mountain Car consists of a car placed stochastically at the bottom of a
      
 Observation space: array of shape (2,) comprising of position & velocity of car \
      Action space: 0[UP], 1[RIGHT], 2[DOWN], 3[LEFT] \
-          Rewards:
+          Rewards: \
               1) Each timestep: -1
