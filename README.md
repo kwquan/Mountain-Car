@@ -8,7 +8,7 @@ In this notebook[MountainCar.ipynb], we shall solve the Mountain Car environment
 Aim: The Mountain Car consists of a car placed stochastically at the bottom of a sinusoidal valley, \
      with the only possible actions being the accelerations that can be applied to the car in either direction. \
      The goal of the MDP is to strategically accelerate the car to reach the goal state on top of the right hill. 
-Gridspace: 4x12 \
-Action space: 0[LEFT], 1[NOTHING], 2[RIGHT] \
-Rewards:
-1) Each timestep: -1
+Observation space: array of shape (2,) comprising of position & velocity of car \
+Action space: 0[UP], 1[RIGHT], 2[DOWN], 3[LEFT] \
+     Rewards:
+         1) Each timestep: -1
