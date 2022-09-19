@@ -11,7 +11,7 @@ with the only possible actions being the accelerations that can be applied to th
 The goal of the MDP is to strategically accelerate the car to reach the goal state on top of the right hill. 
      
 Observation space: array of shape (2,) comprising of position & velocity of car \
-     Action space: 0[UP], 1[RIGHT], 2[DOWN], 3[LEFT] \
+     Action space: 0[LEFT], 1[STATIONARY], 2[RIGHT]\
           Rewards: \
           Each timestep=-1
         
